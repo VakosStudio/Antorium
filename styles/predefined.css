@@ -1,0 +1,17 @@
+img {
+    max-width: 100%;
+}
+a {
+    color: #448b64;
+}
+a:hover {
+    color: #448b64;
+}
+hr {
+    border: 1px solid #bbb;
+}
+p {
+    color: #777;
+    font-size: .9rem;
+    margin: 0;
+}
