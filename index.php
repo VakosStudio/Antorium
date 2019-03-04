@@ -1,20 +1,3 @@
-<!--
-
-    ###########################################
-    #                                         #
-    #      HELLO!           THIS WEBSITE      #
-    #                    HAS MADE BY          #
-    #                           VAKOS         #
-    #                                         #
-    #                                         #
-    #       MORE INFO ABOUT AUTHOR:           #
-    #                                         #
-    #            HTTPS://WWW.VAKOS.PL         #
-    #                                         #
-    ###########################################
-
--->
-
 <!DOCTYPE html>
 <html lang="pl">
 <head>
